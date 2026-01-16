@@ -27,7 +27,7 @@ Structure: <br>
 
 ## Features / Highlights
    
-Business Problem <br>
+Business Problem: <br>
 Retail teams often lack an intuitive way to analyze product performance, customer buying patterns, and store-level trends using raw transactional data.
 
 Goals of the Dashboard: <br>
